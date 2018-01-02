@@ -1,0 +1,29 @@
+{
+  "name": "etherstake",
+  "version": "0.0.1",
+  "description": "High ROI POS Ethereum ERC20 Token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockchain-Boutique/Etherstake.git"
+  },
+  "keywords": [
+    "ethereum",
+    "token",
+    "dapp",
+    "pos",
+    "cryptocurrency"
+  ],
+  "author": "Blockchain Boutique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blockchain-Boutique/Etherstake/issues"
+  },
+  "homepage": "https://github.com/Blockchain-Boutique/Etherstake#readme"
+}
